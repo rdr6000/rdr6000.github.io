@@ -7,6 +7,7 @@ title: Projects
   <a href="/index.html" style="margin: 0 15px;">🏠 Home</a>
   <a href="/about.html" style="margin: 0 15px;">👤 About</a>
   <a href="/projects.html" style="margin: 0 15px;">🛠 Projects</a>
+  <a href="/contact.html" style="margin: 0 15px;">📬 Contact</a>
 </nav>
 
 # 🛠️ Projects
