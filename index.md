@@ -37,3 +37,9 @@ I'm a Software Engineer passionate about building scalable, real-world applicati
 📬 Let's connect:  
 [LinkedIn](https://www.linkedin.com/in/rudranildray) | [GitHub](https://github.com/rdr6000)  
 📍 Vadodara, India | 📞 +91 63514 35215 | ✉️ rdr6000@gmail.com
+
+
+<div style="margin-top: 2rem; text-align: center;">
+  <a href="assets/Rudranil_Datta_Ray_CV.pdf" target="_blank" style="padding: 10px 20px; background: #0366d6; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">📄 View CV</a>
+  <a href="assets/Rudranil_Datta_Ray_CV.pdf" download="Rudranil_Datta_Ray_CV.pdf" style="padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px;">💾 Download CV</a>
+</div>
