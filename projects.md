@@ -13,38 +13,20 @@ title: Projects
 
 ## 🌐 BerryBlues Ecommerce Platform
 **Next.js, Flutter, PostgreSQL, Docker**  
-Built a scalable ecommerce platform with mobile support, CMS (Strapi), payment (Razorpay), logistics (Shiprocket), and marketing automation (Mailchimp).
-
----
+Built a scalable ecommerce platform with mobile support...
 
 ## 💼 Custom CRM & Low-Code Apps
 **Frappe, Vue.js, Flutter**  
-Developed 12+ custom low-code apps for businesses like BerryBlues and Saathi4u. These solutions manage HR, CRM, and project workflows and support over ₹12L daily revenue.
-
----
+Developed 12+ custom low-code apps...
 
 ## 💍 Saathi4u Matrimony Platform
-**WordPress, React + Vite, Node.js, Hasura, Docker**  
-Built a hybrid WordPress + React-based platform for matchmaking, with real-time backend, SMS/email integration (Twilio, SendGrid), and scalable hosting on DigitalOcean.
+**WordPress, React + Vite, Node.js, Hasura**  
+Built a modern matchmaking platform...
 
----
-
-## 🔄 Quickbase Extensions (QBKit)
-**Flutter, AWS**  
-Extended Quickbase features via mobile-friendly Flutter extensions, improving workflow automation for ArkoneSoft.
-
----
-
-## 🧬 Blockchain DApps for Anant SoftTech
+## 🧬 Blockchain DApps
 **Flutter, Polygon, GraphQL**  
-Built decentralized apps with blockchain integrations using Polygon/Subgraph and Flutter UI, targeting secure, next-gen finance solutions.
+Delivered secure decentralized apps...
 
----
-
-## 🧠 WavePointer (Gesture UI System)
+## 🧠 WavePointer
 **Python, MediaPipe, Flutter**  
-Created a machine learning–powered gesture interface using CNN, OpenCV, and Blender for Gujarat Technological University.
-
----
-
-> Want the full code or demo? [Visit my GitHub](https://github.com/rdr6000)
+Built a gesture-based UI for GTU.

@@ -10,11 +10,22 @@ title: Rudranil Datta Ray
 </nav>
 
 <div align="center">
-  <img src="assets/profile.jpg" alt="Rudranil Datta Ray" width="200" style="border-radius: 50%;" />
-  <h1>👋 Hi, I'm Rudranil</h1>
+  <img src="assets/profile.jpg" alt="Rudranil Datta Ray" width="200" style="border-radius: 50%; animation: fadeIn 2s ease-in-out;" />
+  <h1 style="animation: slideIn 1s ease-out;">👋 Hi, I'm Rudranil</h1>
 </div>
 
-I'm a Software Engineer passionate about building scalable, real-world applications. I specialize in full-stack development, cloud deployment, and low-code platforms.
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateY(-20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+</style>
+
+I'm a Software Engineer passionate about building scalable, real-world applications...
 
 🎯 **Looking to contribute to impactful, cutting-edge tech projects.**
 
