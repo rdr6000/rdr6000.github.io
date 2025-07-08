@@ -3,6 +3,12 @@ layout: default
 title: About Me
 ---
 
+<nav style="text-align:center; margin-bottom: 2rem;">
+  <a href="/index.html" style="margin: 0 15px;">🏠 Home</a>
+  <a href="/about.html" style="margin: 0 15px;">👤 About</a>
+  <a href="/projects.html" style="margin: 0 15px;">🛠 Projects</a>
+</nav>
+
 # 🙋 About Me
 
 I’m Rudranil, a developer who thrives at the intersection of software architecture, problem-solving, and real-world business solutions.
